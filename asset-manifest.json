@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newandlastproject/static/css/main.44abccef.css",
+    "main.js": "/newandlastproject/static/js/main.28b9d214.js",
+    "static/js/787.f7128919.chunk.js": "/newandlastproject/static/js/787.f7128919.chunk.js",
+    "index.html": "/newandlastproject/index.html",
+    "main.44abccef.css.map": "/newandlastproject/static/css/main.44abccef.css.map",
+    "main.28b9d214.js.map": "/newandlastproject/static/js/main.28b9d214.js.map",
+    "787.f7128919.chunk.js.map": "/newandlastproject/static/js/787.f7128919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44abccef.css",
+    "static/js/main.28b9d214.js"
+  ]
+}
